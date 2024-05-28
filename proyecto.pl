@@ -4817,9 +4817,6 @@ Si el actor secundario de El Mago de Oz es Ray Bolger entonces el género del ac
 216. actor_secundario('El_Mago_de_Oz', 'Ray Bolger').-->genero_masculino('Ray Bolger').
 Si el actor secundario de El Mago de Oz es Ray Bolger entonces el género del actor Ray Bolger es masculino.
 217. actor_secundario('Alicia_en_el_Pais_de_las_Maravillas', 'Ed Wynn').-->genero_masculino('Ed Wynn').
-
-
-%Actrices de genero femenino
 Si la actriz protagonista de El Exorcista es Ellen Burstyn entonces el género de la actriz Ellen Burstyn es femenino.
 218. actor_protagonista('El_Exorcista', 'Ellen Burstyn').-->genero_femenino('Ellen Burstyn').
 Si la actriz protagonista de Pesadilla en la Calle del Infierno es Heather Langenkamp entonces el género de la actriz Heather Langenkamp es femenino.
