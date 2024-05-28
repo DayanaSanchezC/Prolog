@@ -4459,414 +4459,443 @@ Si chicago gano un oscar a mejor actriz de reparto entoces la actriz secundarias
 36. gano_oscar_en('Chicago', 2003, ['Mejor_Pelicula', 'Mejor_Actriz_de_Reparto', 'Mejor_Direccion_de_Arte', 'Mejor_Vestuario', 'Mejor_Edicion', 'Mejor_Sonido']).-->actor_secundario('Chicago', 'Richard Gere')
 Si los miserables ganaron un oscar a mejor actriz de reparto entonces la actriz secundaria es Russell Crowe
 37. gano_oscar_en('Los_Miserables', 2013, ['Mejor_Actriz_de_Reparto', 'Mejor_Maquillaje_y_Peinado']).-->actor_secundario('Los_Miserables', 'Russell Crowe').
-Si el actor de Mad Max: Furia en el camino es Tom Hardy entonces el genero de Tom Hardy es masculino
+Si el actor protagonista de Mad Max: Furia en el camino es Tom Hardy entonces el genero de Tom Hardy es masculino
 38. actor_protagonista('Mad_Max:_Furia_en_el_Camino', 'Tom Hardy').-->genero_masculino('Tom Hardy').
-Si el actor de Duro de Matar es Bruce Willis entonces el genero de Bruce Willis es masculino
+Si el actor protagonista de Duro de Matar es Bruce Willis entonces el genero de Bruce Willis es masculino
 39. actor_protagonista('Duro_de_Matar', 'Bruce Willis').-->genero_masculino('Bruce Willis').
-Si el actor de Indiana Jones es Harrison Ford entonces el genero de Harrison Ford es masculino
+Si el actor protagonista de Indiana Jones es Harrison Ford entonces el genero de Harrison Ford es masculino
 40. actor_protagonista('Indiana_Jones', 'Harrison Ford').-->genero_masculino('Harrison Ford').
-Si el actor de El señor de los anillos: Las dos torres es Elijah Wood entonces el genero de Elijah Wood es masculino
+Si el actor protagonista de El señor de los anillos: Las dos torres es Elijah Wood entonces el genero de Elijah Wood es masculino
 41. actor_protagonista('El_senor_de_los_anillos:_Las_dos_torres', 'Elijah Wood').-->genero_masculino('Elijah Wood').
-Si el actor de Supercool es Jonah Hill entonces el genero de Jonah Hill es masculino
+Si el actor protagonista de Supercool es Jonah Hill entonces el genero de Jonah Hill es masculino
 42. actor_protagonista('Supercool', 'Jonah Hill').-->genero_masculino('Jonah Hill').
-Si el actor de Dos Tontos en Fuga es Steve Martin entonces el genero de Steve Martin es masculino
+Si el actor protagonista de Dos Tontos en Fuga es Steve Martin entonces el genero de Steve Martin es masculino
 43. actor_protagonista('Dos_Tontos_en_Fuga', 'Steve Martin').-->genero_masculino('Steve Martin').
-Si el actor de El Padrino es Marlon Brando entonces el genero de Marlon Brando es masculino
+Si el actor protagonista de El Padrino es Marlon Brando entonces el genero de Marlon Brando es masculino
 44. actor_protagonista('El_Padrino', 'Marlon Brando').-->genero_masculino('Marlon Brando').
-Si el actor de Sueños de Libertad es Tim Robbins entonces el genero de Tim Robbins es masculino
+Si el actor protagonista de Sueños de Libertad es Tim Robbins entonces el genero de Tim Robbins es masculino
 45. actor_protagonista('Suenos_de_Libertad', 'Tim Robbins').-->genero_masculino('Tim Robbins').
-Si el actor de La Guerra de las Galaxias es Mark Hamill entonces el genero de Mark Hamill es masculino
+Si el actor protagonista de La Guerra de las Galaxias es Mark Hamill entonces el genero de Mark Hamill es masculino
 46. actor_protagonista('La_Guerra_de_las_Galaxias', 'Mark Hamill').-->genero_masculino('Mark Hamill').
-Si el actor de El Cazador Implacable es Robert De Niro entonces el genero de Robert De Niro es masculino
+Si el actor protagonista de El Cazador Implacable es Robert De Niro entonces el genero de Robert De Niro es masculino
 47. actor_protagonista('El_Cazador_Implacable', 'Robert De Niro').-->genero_masculino('Robert De Niro').
-Si el actor de Harry Potter y la piedra filosofal es Daniel Radcliffe entonces el genero de Daniel Radcliffe es masculino
+Si el actor protagonista de Harry Potter y la piedra filosofal es Daniel Radcliffe entonces el genero de Daniel Radcliffe es masculino
 48. actor_protagonista('Harry_Potter_y_la_piedra_filosofal', 'Daniel Radcliffe').-->genero_masculino('Daniel Radcliffe').
-Si el actor de La La Land: Una historia de amor es Ryan Gosling entonces el genero de Ryan Gosling es masculino
+Si el actor protagonista de La La Land: Una historia de amor es Ryan Gosling entonces el genero de Ryan Gosling es masculino
 49. actor_secundario('La_La_Land:_Una_historia_de_amor', 'Ryan Gosling').-->genero_masculino('Ryan Gosling').
-Si el actor de El Gato con Sombrero es Mike Myers entonces el genero de Mike Myers es masculino
+Si el actor protagonista de El Gato con Sombrero es Mike Myers entonces el genero de Mike Myers es masculino
 50. actor_secundario('El_Gato_con_Sombrero', 'Mike Myers').-->genero_masculino('Mike Myers').
-Si el actor de Se7en es Brad Pitt entonces el genero de Brad Pitt es masculino
+Si el actor protagonista de Se7en es Brad Pitt entonces el genero de Brad Pitt es masculino
 51. actor_protagonista('Se7en', 'Brad Pitt').-->genero_masculino('Brad Pitt').
-Si el actor de Perdida es Ben Affleck entonces el genero de Ben Affleck es masculino
+Si el actor protagonista de Perdida es Ben Affleck entonces el genero de Ben Affleck es masculino
 52. actor_protagonista('Perdida', 'Ben Affleck').-->genero_masculino('Ben Affleck').
-Si el actor de Sherlock Holmes es Robert Downey Jr. entonces el genero de Robert Downey Jr. es masculino
+Si el actor protagonista de Sherlock Holmes es Robert Downey Jr. entonces el genero de Robert Downey Jr. es masculino
 53. actor_protagonista('Sherlock_Holmes', 'Robert Downey Jr.').-->genero_masculino('Robert Downey Jr.').
-Si el actor de Red Social es Jesse Eisenberg entonces el genero de Jesse Eisenberg es masculino
+Si el actor protagonista de Red Social es Jesse Eisenberg entonces el genero de Jesse Eisenberg es masculino
 54. actor_protagonista('Red_Social', 'Jesse Eisenberg').-->genero_masculino('Jesse Eisenberg').
-Si el actor de Gandhi es Ben Kingsley entonces el genero de Ben Kingsley es masculino
+Si el actor protagonista de Gandhi es Ben Kingsley entonces el genero de Ben Kingsley es masculino
 55. actor_protagonista('Gandhi', 'Ben Kingsley').-->genero_masculino('Ben Kingsley').
-Si el actor de El Viaje del Emperador es Morgan Freeman entonces el genero de Morgan Freeman es masculino
+Si el actor protagonista de El Viaje del Emperador es Morgan Freeman entonces el genero de Morgan Freeman es masculino
 56. actor_protagonista('El_Viaje_del_Emperador', 'Morgan Freeman').-->genero_masculino('Morgan Freeman').
-Si el actor de Bowling for Columbine es Michael Moore entonces el genero de Michael Moore es masculino
+Si el actor protagonista de Bowling for Columbine es Michael Moore entonces el genero de Michael Moore es masculino
 57. actor_protagonista('Bowling_for_Columbine', 'Michael Moore').-->genero_masculino('Michael Moore').
-Si el actor de Corazon Valiente es Mel Gibson entonces el genero de Mel Gibson es masculino
+Si el actor protagonista de Corazon Valiente es Mel Gibson entonces el genero de Mel Gibson es masculino
 58. actor_protagonista('Corazon_Valiente', 'Mel Gibson').-->genero_masculino('Mel Gibson').
-Si el actor de La Lista de Schindler es Liam Neeson entonces el genero de Liam Neeson es masculino
+Si el actor protagonista de La Lista de Schindler es Liam Neeson entonces el genero de Liam Neeson es masculino
 59. actor_protagonista('La_Lista_de_Schindler', 'Liam Neeson').-->genero_masculino('Liam Neeson').
-Si el actor de Dunkerque es Fionn Whitehead entonces el genero de Fionn Whitehead es masculino
+Si el actor protagonista de Dunkerque es Fionn Whitehead entonces el genero de Fionn Whitehead es masculino
 60. actor_protagonista('Dunkerque', 'Fionn Whitehead').-->genero_masculino('Fionn Whitehead').
-Si el actor de El Bueno, el Malo y el Feo es Clint Eastwood entonces el genero de Clint Eastwood es masculino
+Si el actor protagonista de El Bueno, el Malo y el Feo es Clint Eastwood entonces el genero de Clint Eastwood es masculino
 61. actor_protagonista('El_Bueno,el_Malo_y_el_Feo', 'Clint Eastwood').-->genero_masculino('Clint Eastwood').
-Si el actor de Mission: Impossible es Tom Cruise entonces el genero de Tom Cruise es masculino
+Si el actor protagonista de Mission: Impossible es Tom Cruise entonces el genero de Tom Cruise es masculino
 62. actor_protagonista('Mission:_Impossible', 'Tom Cruise').-->genero_masculino('Tom Cruise').
-Si el actor de James Bond at the Movies es Sean Connery entonces el genero de Sean Connery es masculino
+Si el actor protagonista de James Bond at the Movies es Sean Connery entonces el genero de Sean Connery es masculino
 63. actor_protagonista('James_Bond_at_the_Movies', 'Sean Connery').-->genero_masculino('Sean Connery').
-Si el actor de Stand by Me es Wil Wheaton entonces el genero de Wil Wheaton es masculino
+Si el actor protagonista de Stand by Me es Wil Wheaton entonces el genero de Wil Wheaton es masculino
 64. actor_protagonista('Stand_by_Me', 'Wil Wheaton').-->genero_masculino('Wil Wheaton').
-Si el actor de Los Infiltrados es Leonardo DiCaprio entonces el genero de Leonardo DiCaprio es masculino
+Si el actor protagonista de Los Infiltrados es Leonardo DiCaprio entonces el genero de Leonardo DiCaprio es masculino
 65. actor_protagonista('Los_Infiltrados', 'Leonardo DiCaprio').-->genero_masculino('Leonardo DiCaprio').
-Si el actor de Tiempos Violentos es John Travolta entonces el genero de John Travolta es masculino
+Si el actor protagonista de Tiempos Violentos es John Travolta entonces el genero de John Travolta es masculino
 66. actor_protagonista('Tiempos_Violentos', 'John Travolta').-->genero_masculino('John Travolta').
-Si el actor de Rocky es Sylvester Stallone entonces el genero de Sylvester Stallone es masculino
+Si el actor protagonista de Rocky es Sylvester Stallone entonces el genero de Sylvester Stallone es masculino
 67. actor_protagonista('Rocky', 'Sylvester Stallone').-->genero_masculino('Sylvester Stallone').
-Si el actor de El Juego de la Fortuna es Kevin Spacey entonces el genero de Kevin Spacey es masculino
+Si el actor protagonista de El Juego de la Fortuna es Kevin Spacey entonces el genero de Kevin Spacey es masculino
 68. actor_protagonista('El_Juego_de_la_Fortuna', 'Kevin Spacey').-->genero_masculino('Kevin Spacey').
-Si el actor de Buscando a Nemo es Albert Brooks entonces el genero de Albert Brooks es masculino
+Si el actor protagonista de Buscando a Nemo es Albert Brooks entonces el genero de Albert Brooks es masculino
 69. actor_protagonista('Buscando_a_Nemo', 'Albert Brooks').-->genero_masculino('Albert Brooks').
-Si el actor de Los Increibles es Craig T. Nelson entonces el genero de Craig T. Nelson es masculino
+Si el actor protagonista de Los Increibles es Craig T. Nelson entonces el genero de Craig T. Nelson es masculino
 70. actor_protagonista('Los_Increibles', 'Craig T. Nelson').-->genero_masculino('Craig T. Nelson').
-Si el actor de Coco es Anthony Gonzalez entonces el genero de Anthony Gonzalez es masculino
+Si el actor protagonista de Coco es Anthony Gonzalez entonces el genero de Anthony Gonzalez es masculino
 71. actor_protagonista('Coco', 'Anthony Gonzalez').-->genero_masculino('Anthony Gonzalez').
-Si el actor de Pacto de Sangre es Jack Nicholson entonces el genero de Jack Nicholson es masculino
+Si el actor protagonista de Pacto de Sangre es Jack Nicholson entonces el genero de Jack Nicholson es masculino
 72. actor_protagonista('Pacto_de_Sangre', 'Jack Nicholson').-->genero_masculino('Jack Nicholson').
-Si el actor de Fuego Contra Fuego es Al Pacino entonces el genero de Al Pacino es masculino
+Si el actor protagonista de Fuego Contra Fuego es Al Pacino entonces el genero de Al Pacino es masculino
 73. actor_protagonista('Fuego_Contra_Fuego', 'Al Pacino').-->genero_masculino('Al Pacino').
-Si el actor de Los angeles al Desnudo es Nicolas Cage entonces el genero de Nicolas Cage es masculino
+Si el actor protagonista de Los angeles al Desnudo es Nicolas Cage entonces el genero de Nicolas Cage es masculino
 74. actor_protagonista('Los_angeles_al_Desnudo', 'Nicolas Cage').-->genero_masculino('Nicolas Cage').
-Si el actor de Batman: El caballero de la noche es Christian Bale entonces el genero de Christian Bale es masculino
+Si el actor protagonista de Batman: El caballero de la noche es Christian Bale entonces el genero de Christian Bale es masculino
 75. actor_protagonista('Batman:_El_caballero_de_la_noche', 'Christian Bale').-->genero_masculino('Christian Bale').
-Si el actor de Cuando Harry Conocio a Sally es Billy Crystal entonces el genero de Billy Crystal es masculino
+Si el actor protagonista de Cuando Harry Conocio a Sally es Billy Crystal entonces el genero de Billy Crystal es masculino
 76. actor_protagonista('Cuando_Harry_Conocio_a_Sally', 'Billy Crystal').-->genero_masculino('Billy Crystal').
-Si el actor de Jurassic Park es Sam Neill entonces el genero de Sam Neill es masculino
+Si el actor protagonista de Jurassic Park es Sam Neill entonces el genero de Sam Neill es masculino
 77. actor_protagonista('Jurassic_Park', 'Sam Neill').-->genero_masculino('Sam Neill').
-Si el actor de E.T., el Extraterrestre es Henry Thomas entonces el genero de Henry Thomas es masculino
+Si el actor protagonista de E.T., el Extraterrestre es Henry Thomas entonces el genero de Henry Thomas es masculino
 78. actor_protagonista('E.T.,el_Extraterrestre', 'Henry Thomas').-->genero_masculino('Henry Thomas').
-Si el actor de Volver al Futuro es Michael J. Fox entonces el genero de Michael J. Fox es masculino
+Si el actor protagonista de Volver al Futuro es Michael J. Fox entonces el genero de Michael J. Fox es masculino
 79. actor_protagonista('Volver_al_Futuro', 'Michael J. Fox').-->genero_masculino('Michael J. Fox').
-Si el actor de Matrix es Keanu Reeves entonces el genero de Keanu Reeves es masculino
+Si el actor protagonista de Matrix es Keanu Reeves entonces el genero de Keanu Reeves es masculino
 80. actor_protagonista('Matrix', 'Keanu Reeves').-->genero_masculino('Keanu Reeves').
-Si el actor de Avatar es Sam Worthington entonces el genero de Sam Worthington es masculino
+Si el actor protagonista de Avatar es Sam Worthington entonces el genero de Sam Worthington es masculino
 81. actor_protagonista('Avatar', 'Sam Worthington').-->genero_masculino('Sam Worthington').
-Si el actor de Terminator es Arnold Schwarzenegger entonces el genero de Arnold Schwarzenegger es masculino
+Si el actor protagonista de Terminator es Arnold Schwarzenegger entonces el genero de Arnold Schwarzenegger es masculino
 82. actor_protagonista('Terminator', 'Arnold Schwarzenegger').-->genero_masculino('Arnold Schwarzenegger').
-Si el actor de Interestelar es Matthew McConaughey entonces el genero de Matthew McConaughey es masculino
+Si el actor protagonista de Interestelar es Matthew McConaughey entonces el genero de Matthew McConaughey es masculino
 83. actor_protagonista('Interestelar', 'Matthew McConaughey').-->genero_masculino('Matthew McConaughey').
-Si el actor de Guardianes de la Galaxia es Chris Pratt entonces el genero de Chris Pratt es masculino
+Si el actor protagonista de Guardianes de la Galaxia es Chris Pratt entonces el genero de Chris Pratt es masculino
 84. actor_protagonista('Guardianes_de_la_Galaxia', 'Chris Pratt').-->genero_masculino('Chris Pratt').
-Si el actor de Un Paseo para Recordar es Shane West entonces el genero de Shane West es masculino
+Si el actor protagonista de Un Paseo para Recordar es Shane West entonces el genero de Shane West es masculino
 85. actor_protagonista('Un_Paseo_para_Recordar', 'Shane West').-->genero_masculino('Shane West').
-Si el actor de Realmente Amor es Hugh Grant entonces el genero de Hugh Grant es masculino
+Si el actor protagonista de Realmente Amor es Hugh Grant entonces el genero de Hugh Grant es masculino
 86. actor_protagonista('Realmente_Amor', 'Hugh Grant').-->genero_masculino('Hugh Grant').
-Si el actor de Casablanca es Humphrey Bogart entonces el genero de Humphrey Bogart es masculino
+Si el actor protagonista de Casablanca es Humphrey Bogart entonces el genero de Humphrey Bogart es masculino
 87. actor_protagonista('Casablanca', 'Humphrey Bogart').-->genero_masculino('Humphrey Bogart').
-Si el actor de Eso es Bill Skarsgård entonces el genero de Bill Skarsgård es masculino
+Si el actor protagonista de Eso es Bill Skarsgård entonces el genero de Bill Skarsgård es masculino
 88. actor_protagonista('Eso', 'Bill Skarsgård').-->genero_masculino('Bill Skarsgård').
-Si el actor de Huye es Daniel Kaluuya entonces el genero de Daniel Kaluuya es masculino
+Si el actor protagonista de Huye es Daniel Kaluuya entonces el genero de Daniel Kaluuya es masculino
 89. actor_protagonista('Huye', 'Daniel Kaluuya').-->genero_masculino('Daniel Kaluuya').
-Si el actor de Zodiaco es Jake Gyllenhaal entonces el genero de Jake Gyllenhaal es masculino
+Si el actor protagonista de Zodiaco es Jake Gyllenhaal entonces el genero de Jake Gyllenhaal es masculino
 90. actor_protagonista('Zodiaco', 'Jake Gyllenhaal').-->genero_masculino('Jake Gyllenhaal').
-Si el actor de Prisioneros es Hugh Jackman entonces el genero de Hugh Jackman es masculino
+Si el actor protagonista de Prisioneros es Hugh Jackman entonces el genero de Hugh Jackman es masculino
 91. actor_protagonista('Prisioneros', 'Hugh Jackman').-->genero_masculino('Hugh Jackman').
-Si el actor de Memento es Guy Pearce entonces el genero de Guy Pearce es masculino
+Si el actor protagonista de Memento es Guy Pearce entonces el genero de Guy Pearce es masculino
 92. actor_protagonista('Memento', 'Guy Pearce').-->genero_masculino('Guy Pearce').
-Si el actor de El Rey Leon es Matthew Broderick entonces el genero de Matthew Broderick es masculino
+Si el actor protagonista de El Rey Leon es Matthew Broderick entonces el genero de Matthew Broderick es masculino
 93. actor_protagonista('El_Rey_Leon', 'Matthew Broderick').-->genero_masculino('Matthew Broderick').
-Si el actor de El Libro de la Selva es Neel Sethi entonces el genero de Neel Sethi es masculino
+Si el actor protagonista de El Libro de la Selva es Neel Sethi entonces el genero de Neel Sethi es masculino
 94. actor_protagonista('El_Libro_de_la_Selva', 'Neel Sethi').-->genero_masculino('Neel Sethi').
-Si el actor de Grandes Heroes es Scott Adsit entonces el genero de Scott Adsit es masculino
+Si el actor protagonista de Grandes Heroes es Scott Adsit entonces el genero de Scott Adsit es masculino
 95. actor_protagonista('Grandes_Heroes', 'Scott Adsit').-->genero_masculino('Scott Adsit').
-Si el actor de Mi Villano Favorito es Steve Carell entonces el genero de Steve Carell es masculino
+Si el actor protagonista de Mi Villano Favorito es Steve Carell entonces el genero de Steve Carell es masculino
 96. actor_protagonista('Mi_Villano_Favorito', 'Steve Carell').-->genero_masculino('Steve Carell').
-Si el actor de Ralph, El Demoledor es John C. Reilly entonces el genero de John C. Reilly es masculino
+Si el actor protagonista de Ralph, El Demoledor es John C. Reilly entonces el genero de John C. Reilly es masculino
 97. actor_protagonista('Ralph,El_Demoledor', 'John C. Reilly').-->genero_masculino('John C. Reilly').
-Si el actor de Como Entrenar a tu Dragon es Jay Baruchel entonces el genero de Jay Baruchel es masculino
+Si el actor protagonista de Como Entrenar a tu Dragon es Jay Baruchel entonces el genero de Jay Baruchel es masculino
 98. actor_protagonista('Como_Entrenar_a_tu_Dragon', 'Jay Baruchel').-->genero_masculino('Jay Baruchel').
-Si el actor de El Hobbit: Un viaje inesperado es Martin Freeman entonces el genero de Martin Freeman es masculino
+Si el actor protagonista de El Hobbit: Un viaje inesperado es Martin Freeman entonces el genero de Martin Freeman es masculino
 99. actor_protagonista('El_Hobbit:_Un_viaje_inesperado', 'Martin Freeman').-->genero_masculino('Martin Freeman').
-Si el actor de La Princesa Prometida es Cary Elwes entonces el genero de Cary Elwes es masculino
+Si el actor protagonista de La Princesa Prometida es Cary Elwes entonces el genero de Cary Elwes es masculino
 100. actor_protagonista('La_Princesa_Prometida', 'Cary Elwes').-->genero_masculino('Cary Elwes').
-Si el actor de Stardust: El Misterio de la Estrella es Charlie Cox entonces el genero de Charlie Cox es masculino
+Si el actor protagonista de Stardust: El Misterio de la Estrella es Charlie Cox entonces el genero de Charlie Cox es masculino
 101. actor_protagonista('Stardust:_El_Misterio_de_la_Estrella', 'Charlie Cox').-->genero_masculino('Charlie Cox').
-Si el actor de La Historia Sin Fin es Noah Hathaway entonces el genero de Noah Hathaway es masculino
+Si el actor protagonista de La Historia Sin Fin es Noah Hathaway entonces el genero de Noah Hathaway es masculino
 102. actor_protagonista('La_Historia_Sin_Fin', 'Noah Hathaway').-->genero_masculino('Noah Hathaway').
-Si el actor de Percy Jackson y el Ladron del Rayo es Logan Lerman entonces el genero de Logan Lerman es masculino
+Si el actor protagonista de Percy Jackson y el Ladron del Rayo es Logan Lerman entonces el genero de Logan Lerman es masculino
 103. actor_protagonista('Percy_Jackson_y_el_Ladron_del_Rayo', 'Logan Lerman').-->genero_masculino('Logan Lerman').
-Si el actor de El Cristal Encantado es Stephen Garlick entonces el genero de Stephen Garlick es masculino
+Si el actor protagonista de El Cristal Encantado es Stephen Garlick entonces el genero de Stephen Garlick es masculino
 104. actor_protagonista('El_Cristal_Encantado', 'Stephen Garlick').-->genero_masculino('Stephen Garlick').
-Si el actor de Eragon es Edward Speleers entonces el genero de Edward Speleers es masculino
+Si el actor protagonista de Eragon es Edward Speleers entonces el genero de Edward Speleers es masculino
 105. actor_protagonista('Eragon', 'Edward Speleers').-->genero_masculino('Edward Speleers').
-Si el actor de Cantando Bajo la Lluvia es Gene Kelly entonces el genero de Gene Kelly es masculino
+Si el actor protagonista de Cantando Bajo la Lluvia es Gene Kelly entonces el genero de Gene Kelly es masculino
 106. actor_protagonista('Cantando_Bajo_la_Lluvia', 'Gene Kelly').-->genero_masculino('Gene Kelly').
-Si el actor de El Fantasma de la opera es Gerard Butler entonces el genero de Gerard Butler es masculino
+Si el actor protagonista de El Fantasma de la opera es Gerard Butler entonces el genero de Gerard Butler es masculino
 107. actor_protagonista('El_Fantasma_de_la_opera', 'Gerard Butler').-->genero_masculino('Gerard Butler').
-Si el actor de El Peleador es Mark Wahlberg entonces el genero de Mark Wahlberg es masculino
+Si el actor protagonista de El Peleador es Mark Wahlberg entonces el genero de Mark Wahlberg es masculino
 108. actor_protagonista('El_Peleador', 'Mark Wahlberg').-->genero_masculino('Mark Wahlberg').
-Si el actor de Creed: Corazon de Campeon es Michael B. Jordan entonces el genero de Michael B. Jordan es masculino
+Si el actor protagonista de Creed: Corazon de Campeon es Michael B. Jordan entonces el genero de Michael B. Jordan es masculino
 109. actor_protagonista('Creed:_Corazon_de_Campeon', 'Michael B. Jordan').-->genero_masculino('Michael B. Jordan').
-Si el actor de Recuerdos de los Titanes es Denzel Washington entonces el genero de Denzel Washington es masculino
+Si el actor protagonista de Recuerdos de los Titanes es Denzel Washington entonces el genero de Denzel Washington es masculino
 110. actor_protagonista('Recuerdos_de_los_Titanes', 'Denzel Washington').-->genero_masculino('Denzel Washington').
-Si el actor de Juego de Honor es Samuel L. Jackson entonces el genero de Samuel L. Jackson es masculino
+Si el actor protagonista de Juego de Honor es Samuel L. Jackson entonces el genero de Samuel L. Jackson es masculino
 111. actor_protagonista('Juego_de_Honor', 'Samuel L. Jackson').-->genero_masculino('Samuel L. Jackson').
-Si el actor de Campo de Suenos es Kevin Costner entonces el genero de Kevin Costner es masculino
+Si el actor protagonista de Campo de Suenos es Kevin Costner entonces el genero de Kevin Costner es masculino
 112. actor_protagonista('Campo_de_Suenos', 'Kevin Costner').-->genero_masculino('Kevin Costner').
-Si el actor de Un Equipo Muy Especial es Gene Hackman entonces el genero de Gene Hackman es masculino
+Si el actor protagonista de Un Equipo Muy Especial es Gene Hackman entonces el genero de Gene Hackman es masculino
 113. actor_protagonista('Un_Equipo_Muy_Especial', 'Gene Hackman').-->genero_masculino('Gene Hackman').
-Si el actor de Aladdin es Mena Massoud entonces el genero de Mena Massoud es masculino
+Si el actor protagonista de Aladdin es Mena Massoud entonces el genero de Mena Massoud es masculino
 114. actor_protagonista('Aladdin', 'Mena Massoud').-->genero_masculino('Mena Massoud').
-Si el actor de Bambi es Hardie Albright entonces el genero de Hardie Albright es masculino
+Si el actor protagonista de Bambi es Hardie Albright entonces el genero de Hardie Albright es masculino
 115. actor_protagonista('Bambi', 'Hardie Albright').-->genero_masculino('Hardie Albright').
-Si el actor de 101 Dalmatas es Rod Taylor entonces el genero de Rod Taylor es masculino
+Si el actor protagonista de 101 Dalmatas es Rod Taylor entonces el genero de Rod Taylor es masculino
 116. actor_protagonista('101_Dalmatas', 'Rod Taylor').-->genero_masculino('Rod Taylor').
-Si el actor de Peter Pan es Bobby Driscoll entonces el genero de Bobby Driscoll es masculino
+Si el actor protagonista de Peter Pan es Bobby Driscoll entonces el genero de Bobby Driscoll es masculino
 117. actor_protagonista('Peter_Pan', 'Bobby Driscoll').-->genero_masculino('Bobby Driscoll').
-Si el actor de Dumbo es Edward Brophy entonces el genero de Edward Brophy es masculino
+Si el actor protagonista de Dumbo es Edward Brophy entonces el genero de Edward Brophy es masculino
 118. actor_protagonista('Dumbo', 'Edward Brophy').-->genero_masculino('Edward Brophy').
-Si el actor de Hercules es Tate Donovan entonces el genero de Tate Donovan es masculino
+Si el actor protagonista de Hercules es Tate Donovan entonces el genero de Tate Donovan es masculino
 119. actor_protagonista('Hercules', 'Tate Donovan').-->genero_masculino('Tate Donovan').
-Si el actor de Cars es Owen Wilson entonces el genero de Owen Wilson es masculino
+Si el actor protagonista de Cars es Owen Wilson entonces el genero de Owen Wilson es masculino
 120. actor_protagonista('Cars', 'Owen Wilson').-->genero_masculino('Owen Wilson').
-Si el actor de Monsters Inc es John Goodman entonces el genero de John Goodman es masculino
+Si el actor protagonista de Monsters Inc es John Goodman entonces el genero de John Goodman es masculino
 121. actor_protagonista('Monsters_Inc', 'John Goodman').-->genero_masculino('John Goodman').
-Si el actor de Up es Edward Asner entonces el genero de Edward Asner es masculino
+Si el actor protagonista de Up es Edward Asner entonces el genero de Edward Asner es masculino
 122. actor_protagonista('Up', 'Edward Asner').-->genero_masculino('Edward Asner').
-Si el actor de WALL-E es Ben Burtt entonces el genero de Ben Burtt es masculino
+Si el actor protagonista de WALL-E es Ben Burtt entonces el genero de Ben Burtt es masculino
 123. actor_protagonista('WALL-E', 'Ben Burtt').-->genero_masculino('Ben Burtt').
-Si el actor de El Jorobado de Notre Dame es Tom Hulce entonces el genero de Tom Hulce es masculino
+Si el actor protagonista de El Jorobado de Notre Dame es Tom Hulce entonces el genero de Tom Hulce es masculino
 124. actor_protagonista('El_Jorobado_de_Notre_Dame', 'Tom Hulce').-->genero_masculino('Tom Hulce').
-Si el actor de Oliver y su Pandilla es Joey Lawrence entonces el genero de Joey Lawrence es masculino
+Si el actor protagonista de Oliver y su Pandilla es Joey Lawrence entonces el genero de Joey Lawrence es masculino
 125. actor_protagonista('Oliver_y_su_Pandilla', 'Joey Lawrence').-->genero_masculino('Joey Lawrence').
-Si el actor de Tierra de Osos es Joaquin Phoenix entonces el genero de Joaquin Phoenix es masculino
+Si el actor protagonista de Tierra de Osos es Joaquin Phoenix entonces el genero de Joaquin Phoenix es masculino
 126. actor_protagonista('Tierra_de_Osos', 'Joaquin Phoenix').-->genero_masculino('Joaquin Phoenix').
-Si el actor de El Emperador y sus Locuras es David Spade entonces el genero de David Spade es masculino
+Si el actor protagonista de El Emperador y sus Locuras es David Spade entonces el genero de David Spade es masculino
 127. actor_protagonista('El_Emperador_y_sus_Locuras', 'David Spade').-->genero_masculino('David Spade').
-Si el actor de Chicken Little es Zach Braff entonces el genero de Zach Braff es masculino
+Si el actor protagonista de Chicken Little es Zach Braff entonces el genero de Zach Braff es masculino
 128. actor_protagonista('Chicken_Little', 'Zach Braff').-->genero_masculino('Zach Braff').
-Si el actor de El Camino hacia El Dorado es Kevin Kline entonces el genero de Kevin Kline es masculino
+Si el actor protagonista de El Camino hacia El Dorado es Kevin Kline entonces el genero de Kevin Kline es masculino
 129. actor_protagonista('El_Camino_hacia_El_Dorado', 'Kevin Kline').-->genero_masculino('Kevin Kline').
-Si el actor de Kung Fu Panda es Jack Black entonces el genero de Jack Black es masculino
+Si el actor protagonista de Kung Fu Panda es Jack Black entonces el genero de Jack Black es masculino
 130. actor_protagonista('Kung_Fu_Panda', 'Jack Black').-->genero_masculino('Jack Black').
-Si el actor de Madagascar es Ben Stiller entonces el genero de Ben Stiller es masculino
+Si el actor protagonista de Madagascar es Ben Stiller entonces el genero de Ben Stiller es masculino
 131. actor_protagonista('Madagascar', 'Ben Stiller').-->genero_masculino('Ben Stiller').
-Si el actor de Mi Pobre Angelito es Macaulay Culkin entonces el genero de Macaulay Culkin es masculino
+Si el actor protagonista de Mi Pobre Angelito es Macaulay Culkin entonces el genero de Macaulay Culkin es masculino
 132. actor_protagonista('Mi_Pobre_Angelito', 'Macaulay Culkin').-->genero_masculino('Macaulay Culkin').
-Si el actor de Jumanji es Robin Williams entonces el genero de Robin Williams es masculino
+Si el actor protagonista de Jumanji es Robin Williams entonces el genero de Robin Williams es masculino
 133. actor_protagonista('Jumanji', 'Robin Williams').-->genero_masculino('Robin Williams').
-Si el actor de Chitty Chitty Bang Bang es Dick Van Dyke entonces el genero de Dick Vam Dyke es masculino
+Si el actor protagonista de Chitty Chitty Bang Bang es Dick Van Dyke entonces el genero de Dick Vam Dyke es masculino
 134. actor_protagonista('Chitty_Chitty_Bang_Bang', 'Dick Van Dyke').-->genero_masculino('Dick Van Dyke').
-Si el actor de willy wonka y la fabrica de chocolate es Gene Wilder entonces el denero de Gene Wilder es masculino
-135. genero_masculino('Gene Wilder'):-actor_protagonista('Willy_Wonka_y_la_Fabrica_de_Chocolate', 'Gene Wilder').
-136. genero_masculino('Sean Astin'):-actor_protagonista('Los_Goonies', 'Sean Astin').
-137. genero_masculino('Ben Whishaw'):-actor_protagonista('Paddington', 'Ben Whishaw').
-138. genero_masculino('James Corden'):-actor_protagonista('Peter_Rabbit_2_A_la_Fuga', 'James Corden').
-139. genero_masculino('Donald Glover'):-actor_protagonista('El_Rey_Leon_2019', 'Donald Glover').
-140. genero_masculino('Colin Farrell'):-actor_protagonista('Dumbo_2019', 'Colin Farrell').
-141. genero_masculino('Ewan McGregor'):-actor_protagonista('Christopher_Robin', 'Ewan McGregor').
-142. genero_masculino('Joe Mantegna'):-actor_protagonista('Aventuras_en_la_Gran_Ciudad', 'Joe Mantegna').
-143. genero_masculino('Jim Carrey'):-actor_protagonista('Una_Serie_de_Eventos_Desafortunados', 'Jim Carrey').
-144. genero_masculino('Taylor Lautner'):- actor_protagonista('Las_Aventuras_de_Sharkboy_y_Lavagirl', 'Taylor Lautner').
-145. genero_masculino('Asa Butterfield'):-actor_protagonista('El_hogar_de_Miss_Peregrine_para_ninos_peculiares', 'Asa Butterfield').
-146. genero_masculino('Alan Rickman'):-actor_secundario('Duro_de_Matar', 'Alan Rickman').
-147. genero_masculino('Martin Lawrence'):-actor_secundario('Dos_Tontos_en_Fuga', 'Martin Lawrence').
-148. genero_masculino('James Caan'):-actor_secundario('El_Padrino', 'James Caan').
-149. genero_masculino('Max von Sydow'):-actor_secundario('El_Exorcista', 'Max von Sydow').
-150. genero_masculino('Christopher Walken'):-actor_secundario('El_Cazador_Implacable', 'Christopher Walken').
-151. genero_masculino('Rupert Grint'):-actor_secundario('Harry_Potter_y_la_piedra_filosofal', 'Rupert Grint').
-152. genero_masculino('Christopher Plummer'):-actor_secundario('La_Novicia_Rebelde', 'Christopher Plummer').
-153. genero_masculino('Tim Allen'):-actor_secundario('Toy_Story', 'Tim Allen').
-154. genero_masculino('Eddie Murphy'):-actor_secundario('Shrek', 'Eddie Murphy').
-156. genero_masculino('James Garner'):- actor_secundario('Diario_de_una_Pasion', 'James Garner').
-157. genero_masculino('Matthew Macfadyen'):-actor_protagonista('Orgullo_y_Prejuicio', 'Matthew Macfadyen').
-158. genero_masculino('Tyler Perry'):- actor_secundario('Perdida', 'Tyler Perry').
-159. genero_masculino('Jude Law'):- actor_secundario('Sherlock_Holmes', 'Jude Law').
-160. genero_masculino('Stellan Skarsgard'):-actor_secundario('La_Chica_del_Dragon_Tatuado', 'Stellan Skarsgard').
-161. genero_masculino('Andrew Garfield'):-actor_secundario('Red_Social', 'Andrew Garfield').
-162. genero_masculino('Matt Damon'):-actor_secundario('Rescatando_al_Soldado_Ryan', 'Matt Damon').
-163. genero_masculino('Lee Van Cleef'):-actor_secundario('El_Bueno,el_Malo_y_el_Feo', 'Lee Van Cleef').
-164. genero_masculino('Jon Voight'):-actor_secundario('Mission:_Impossible', 'Jon Voight').
-165. genero_masculino('River Phoenix'):-actor_secundario('Stand_by_Me', 'River Phoenix').
-166. genero_masculino('Burgess Meredith'):-actor_secundario('Rocky', 'Burgess Meredith').
-167. genero_masculino('Edward G. Robinson'):-actor_secundario('Pacto_de_Sangre', 'Edward G. Robinson').
-168. genero_masculino('Clive Owen'):-actor_secundario('La_Ciudad_del_Pecado', 'Clive Owen').
-169. genero_masculino('Val Kilmer'):-actor_secundario('Fuego_Contra_Fuego', 'Val Kilmer').
-170. genero_masculino('Danny DeVito'):-actor_secundario('Los_angeles_al_Desnudo', 'Danny DeVito').
-171. genero_masculino('Chris Evans'):- actor_secundario('The_Avengers:_Los_Vengadores', 'Chris Evans').
-172. genero_masculino('Aaron Eckhart'):-actor_secundario('Batman:_El_caballero_de_la_noche', 'Aaron Eckhart').
-173. genero_masculino('Jason Alexander'):-actor_secundario('Mujer_Bonita', 'Jason Alexander').
-174. genero_masculino('Bruno Kirby'):-actor_secundario('Cuando_Harry_Conocio_a_Sally', 'Bruno Kirby').
-175. genero_masculino('Sergi Lopez'):-actor_secundario('El_Laberinto_del_Fauno', 'Sergi Lopez').
-176. genero_masculino('Michael Shannon'):-actor_secundario('La_Forma_del_Agua', 'Michael Shannon').
-177. genero_masculino('Josh Hutcherson'):-actor_secundario('Los_Juegos_del_Hambre', 'Josh Hutcherson').
-178. genero_masculino('Jeff Goldblum'):-actor_secundario('Jurassic_Park', 'Jeff Goldblum').
-179. genero_masculino('Robert MacNaughton'):-actor_secundario('E.T.,el_Extraterrestre', 'Robert MacNaughton').
+Si el actor protagonista de willy wonka y la fabrica de chocolate es Gene Wilder entonces el genero de Gene Wilder es masculino
+135. actor_protagonista('Willy_Wonka_y_la_Fabrica_de_Chocolate', 'Gene Wilder').-->genero_masculino('Gene Wilder').
+Si el actor protagonista de Los_Goonies es Sean Astin entonces el genero de Sean Astin es masculino
+136. actor_protagonista('Los_Goonies', 'Sean Astin').-->genero_masculino('Sean Astin').
+Si el actor protagonista de Paddington es Ben Whishaw entonces el genero de Ben Whishaw es masculino
+137. actor_protagonista('Paddington', 'Ben Whishaw').-->genero_masculino('Ben Whishaw').
+Si el actor protagonista de Peter Rabbit 2 A la Fuga es James Corden entonces el genero del actor James Corden es masculino
+138. actor_protagonista('Peter_Rabbit_2_A_la_Fuga', 'James Corden'). -->genero_masculino('James Corden').
+Si el actor protagonista de El Rey Leon 2019 es Donald Glover entonces el genero del actor Donald Glover es masculino
+139. actor_protagonista('El_Rey_Leon_2019', 'Donald Glover').-->genero_masculino('Donald Glover').
+Si el actor protagonista de Dumbo  2019 es Colin Farrell entonces el genero del actor Colin Farrell es masculino
+140. actor_protagonista('Dumbo_2019', 'Colin Farrell').-->genero_masculino('Colin Farrell').
+Si el actor protagonista de Christopher Robin es Ewan McGregor entonces el genero del actor Ewan McGregor es masculino
+141. actor_protagonista('Christopher_Robin', 'Ewan McGregor').-->genero_masculino('Ewan McGregor').
+Si el actor protagonista de Aventuras en la Gran Ciudad es Joe Mantegna entonces el genero del actor Joe Mantegna es masculino
+142. actor_protagonista('Aventuras_en_la_Gran_Ciudad', 'Joe Mantegna').-->genero_masculino('Joe Mantegna').
+Si el actor protagonista de Una Serie de Eventos Desafortunados es Jim Carrey entonces el genero del actor Jim Carrey es masculino
+143. actor_protagonista('Una_Serie_de_Eventos_Desafortunados', 'Jim Carrey').-->genero_masculino('Jim Carrey').
+Si el actor protagonista de Las Aventuras de Sharkboy y Lavagirl es Taylor Lautner entonces el genero del actor Taylor Lautner es masculino
+144. actor_protagonista('Las_Aventuras_de_Sharkboy_y_Lavagirl', 'Taylor Lautner').-->genero_masculino('Taylor Lautner').
+Si el actor protagonista de El hogar de Miss Peregrine para ninos peculiares es Asa Butterfield entonces el genero del actor Asa Butterfield es masculino
+145. actor_protagonista('El_hogar_de_Miss_Peregrine_para_ninos_peculiares', 'Asa Butterfield').-->genero_masculino('Asa Butterfield')
+Si el actor secundario de Duro de Matar es Alan Rickman entonces el genero del actor Alan Rickman es masculino
+146. actor_secundario('Duro_de_Matar', 'Alan Rickman').-->genero_masculino('Alan Rickman').
+Si el actor secundario de Dos Tontos en Fuga es Martin Lawrence entonces el genero del actor Martin Lawrence es masculino
+147. actor_secundario('Dos_Tontos_en_Fuga', 'Martin Lawrence').-->genero_masculino('Martin Lawrence').
+Si el actor secundario de El Padrino es James Caan entonces el genero del actor James Caan es masculino
+148. actor_secundario('El_Padrino', 'James Caan').-->genero_masculino('James Caan').
+Si el actor secundario de El Exorcista es Max von Sydow entonces el genero del actor Max von Sydow es masculino
+149. actor_secundario('El_Exorcista', 'Max von Sydow').-->genero_masculino('Max von Sydow').
+Si el actor secundario de El Exorcistae es Christopher Walken entonces el genero del actor Christopher Walken es masculino
+150. actor_secundario('El_Cazador_Implacable', 'Christopher Walken').-->genero_masculino('Christopher Walken').
+Si el actor secundario de Harry Potter y la piedra filosofal es Rupert Grint entonces el genero del actor Rupert Grint es masculino
+151. actor_secundario('Harry_Potter_y_la_piedra_filosofal', 'Rupert Grint').-->genero_masculino('Rupert Grint').
+Si el actor secundario de La Novicia Rebelde es Christopher Plumme entonces el genero del actor Christopher Plumme es masculino
+152. actor_secundario('La_Novicia_Rebelde', 'Christopher Plummer').-->genero_masculino('Christopher Plummer').
+Si el actor secundario de Toy Story es Tim Allen entonces el genero del actor Tim Allen es masculino
+153. actor_secundario('Toy_Story', 'Tim Allen').-->genero_masculino('Tim Allen').
+Si el actor secundario de Shrek es Eddie Murphy entonces el genero del actor Eddie Murphy es masculino
+154. actor_secundario('Shrek', 'Eddie Murphy').-->genero_masculino('Eddie Murphy').
+Si el actor secundario de Diario de una Pasion es James Garner entonces el genero del actor James Garner es masculino
+156. actor_secundario('Diario_de_una_Pasion', 'James Garner').-->genero_masculino('James Garner').
+Si el actor secundario de OrgulloyPrejuicio es Matthew Macfadyen entonces el genero del actor Matthew Macfadyen es masculino
+157. actor_protagonista('Orgullo_y_Prejuicio', 'Matthew Macfadyen').-->genero_masculino('Matthew Macfadyen').
+Si el actor secundario de Perdida es Tyler Perry entonces el genero del actor Tyler Perry es masculino
+158. actor_secundario('Perdida', 'Tyler Perry').-->genero_masculino('Tyler Perry').
+Si el actor secundario de Sherlock Holmes es Jude Law entonces el genero del actor Jude Law es masculino
+159. actor_secundario('Sherlock_Holmes', 'Jude Law').-->genero_masculino('Jude Law').
+Si el actor secundario de La Chica del Dragon Tatuado es Stellan Skarsgard entonces el genero del actor Stellan Skarsgard es masculino
+160. actor_secundario('La_Chica_del_Dragon_Tatuado', 'Stellan Skarsgard').--> genero_masculino('Stellan Skarsgard').
+Si el actor secundario de Red Social es Andrew Garfield entonces el genero del actor Andrew Garfield es masculino
+161. actor_secundario('Red_Social', 'Andrew Garfield').-->genero_masculino('Andrew Garfield').
+Si el actor secundario de Rescatando al Soldado Ryan es Matt Damon entonces el genero del actor Matt Damon es masculino
+162. actor_secundario('Rescatando_al_Soldado_Ryan', 'Matt Damon').-->genero_masculino('Matt Damon').
+Si el actor secundario de El Bueno,el Malo y el Feo es Lee Van Cleef entonces el genero del actor Lee Van Cleef es masculino
+163. actor_secundario('El_Bueno,el_Malo_y_el_Feo', 'Lee Van Cleef').-->genero_masculino('Lee Van Cleef').
+Si el actor secundario de Mission: Impossible es Jon Voight entonces el genero del actor Jon Voight es masculino
+164. actor_secundario('Mission:_Impossible', 'Jon Voight').-->genero_masculino('Jon Voight').
+Si el actor secundario de Stand by Me es River Phoenix entonces el genero del actor River Phoenix es masculino
+165. actor_secundario('Stand_by_Me', 'River Phoenix').-->genero_masculino('River Phoenix').
+Si el actor secundario de Rocky es Burgess Meredith entonces el genero del actor Burgess Meredith es masculino
+166. actor_secundario('Rocky', 'Burgess Meredith').-->genero_masculino('Burgess Meredith').
+Si el actor secundario de Pacto de Sangre es Edward G. Robinson entonces el genero del actor Edward G. Robinson es masculino
+167. actor_secundario('Pacto_de_Sangre', 'Edward G. Robinson').-->genero_masculino('Edward G. Robinson').
+Si el actor secundario de La Ciudad del Pecado es Clive Owen entonces el genero del actor Clive Owen es masculino
+168. actor_secundario('La_Ciudad_del_Pecado', 'Clive Owen').-->genero_masculino('Clive Owen').
+Si el actor secundario de Fuego Contra Fuego es Val Kilmer entonces el genero del actor Val Kilmer es masculino
+169. actor_secundario('Fuego_Contra_Fuego', 'Val Kilmer').-->genero_masculino('Val Kilmer').
+Si el actor secundario de Los angeles al Desnudo es Danny DeVito entonces el genero del actor Danny DeVito es masculino
+170. actor_secundario('Los_angeles_al_Desnudo', 'Danny DeVito').-->genero_masculino('Danny DeVito').
+Si el actor secundario de The Avengers: Los Vengadores es Chris Evans entonces el genero del actor Chris Evans es masculino
+171. actor_secundario('The_Avengers:_Los_Vengadores', 'Chris Evans').-->genero_masculino('Chris Evans').
+Si el actor secundario de Batman: El caballero de la noche es Aaron Eckhart entonces el genero del actor Aaron Eckhart es masculino
+172. actor_secundario('Batman:_El_caballero_de_la_noche', 'Aaron Eckhart').-->genero_masculino('Aaron Eckhart').
+Si el actor secundario de Mujer Bonita es Jason Alexander entonces el genero del actor Jason Alexander es masculino
+173. actor_secundario('Mujer_Bonita', 'Jason Alexander').-->genero_masculino('Jason Alexander').
+Si el actor secundario de Cuando Harry Conocio a Sally es Bruno Kirby entonces el genero del actor Bruno Kirby es masculino
+174. actor_secundario('Cuando_Harry_Conocio_a_Sally', 'Bruno Kirby').-->genero_masculino('Bruno Kirby').
+Si el actor secundario de Cuando El Laberinto del Fauno es Sergi Lopez entonces el genero del actor Sergi Lopez es masculino
+175. actor_secundario('El_Laberinto_del_Fauno', 'Sergi Lopez').-->genero_masculino('Sergi Lopez').
+Si el actor secundario de La Forma del Agua es Michael Shannon entonces el genero del actor Michael Shannon es masculino
+176. actor_secundario('La_Forma_del_Agua', 'Michael Shannon').-->genero_masculino('Michael Shannon').
+Si el actor secundario de Los Juegos del Hambre es Josh Hutcherson entonces el genero del actor Josh Hutcherson  es masculino
+177. actor_secundario('Los_Juegos_del_Hambre', 'Josh Hutcherson').-->genero_masculino('Josh Hutcherson').
+Si el actor secundario de Jurassic Park es Jeff Goldblum entonces el genero del actor Jeff Goldblum es masculino
+178. actor_secundario('Jurassic_Park', 'Jeff Goldblum').-->genero_masculino('Jeff Goldblum').
+Si el actor secundario E.T.,el Extraterrestre es Robert MacNaughton entonces el genero del actor Robert MacNaughton es masculino
+179. actor_secundario('E.T.,el_Extraterrestre', 'Robert MacNaughton').genero_masculino('Robert MacNaughton').
+Si el actor secundario Christopher Lloyd es Christopher Lloyd entonces el genero del actor Christopher Lloyd es masculino
 180. genero_masculino('Christopher Lloyd'):-actor_secundario('Volver_al_Futuro', 'Christopher Lloyd').
-181. genero_masculino('Joseph Gordon-Levitt'):-actor_secundario('El_Origen', 'Joseph Gordon-Levitt').
-182. genero_masculino('Laurence Fishburne'):-actor_secundario('Matrix', 'Laurence Fishburne').
-183. genero_masculino('Michael Biehn'):-actor_secundario('Terminator', 'Michael Biehn').
-184. genero_masculino('John Hurt'):-actor_secundario('Alien:_El_Octavo_Pasajero', 'John Hurt').
-185. genero_masculino('Bradley Cooper'):-actor_secundario('Guardianes_de_la_Galaxia', 'Bradley Cooper').
-186. genero_masculino('Billy Zane'):-actor_secundario('Titanic', 'Billy Zane').
-187. genero_masculino('John Leguizamo'):-actor_secundario('Romeo_+_Julieta', 'John Leguizamo').
-188. genero_masculino('Peter Coyote'):-actor_secundario('Un_Paseo_para_Recordar', 'Peter Coyote').
-189. genero_masculino('Nat Wolff'):-actor_secundario('Bajo_la_Misma_Estrella', 'Nat Wolff').
-190. genero_masculino('Colin Firth'):-actor_secundario('El_Diario_de_Bridget_Jones', 'Colin Firth').
-191. genero_masculino('Claude Rains'):-actor_secundario('Casablanca', 'Claude Rains').
-192. genero_masculino('Rhys Ifans'):-actor_secundario('Un_Lugar_Llamado_Notting_Hill', 'Rhys Ifans').
-193. genero_masculino('Skeet Ulrich'):-actor_secundario('Scream:_Grita_Antes_de_Morir', 'Skeet Ulrich').
-194. genero_masculino('Ron Livingston'):-actor_secundario('El_Conjuro', 'Ron Livingston').
-195. genero_masculino('Finn Wolfhard'):-actor_secundario('Eso', 'Finn Wolfhard').
-196. genero_masculino('Bradley Whitford'):-actor_secundario('Huye', 'Bradley Whitford').
-197. genero_masculino('Alex Wolff'):-actor_secundario('Hereditary:_El_Legado_del_Diablo', 'Alex Wolff').
-198. genero_masculino('Daniel Henshall'):-actor_secundario('El_Babadook', 'Daniel Henshall').
-199. genero_masculino('Brian Cox'):-actor_secundario('El_Aro', 'Brian Cox').
-200. genero_masculino('Micah Sloat'):-actor_secundario('Actividad_Paranormal', 'Micah Sloat').
-genero_masculino('Donald Pleasence').
-genero_masculino('Jared Leto').
-genero_masculino('Michael Clarke Duncan').
-genero_masculino('Michael Fassbender').
-genero_masculino('Anil Kapoor').
-genero_masculino('Geoffrey Rush').
-genero_masculino('Robert Shaw').
-genero_masculino('Anthony Hopkins').
-genero_masculino('Mark Ruffalo').
-genero_masculino('Neil Patrick Harris').
-genero_masculino('Haley Joel Osment').
-genero_masculino('Jeremy Irons').
-genero_masculino('Jason Bateman').
-genero_masculino('Dwayne Johnson').
-genero_masculino('Jason Segel').
-genero_masculino('Jack McBrayer').
-genero_masculino('Ray Bolger').
-genero_masculino('Ed Wynn').
-genero_masculino('Mandy Patinkin').
-genero_masculino('Pierce Brosnan').
-genero_masculino('Jim Henson').
-genero_masculino('David Bowie').
-genero_masculino('Richard Gere').
-genero_masculino('Zac Efron').
-genero_masculino('Russell Crowe').
-genero_masculino('George Chakiris').
-genero_masculino('Donald OConnor').
-genero_masculino('Patrick Wilson').
-genero_masculino('Joe Pesci').
-genero_masculino('Will Patton').
-genero_masculino('Rob Brown').
-genero_masculino('James Earl Jones').
-genero_masculino('Tom Hanks').
-genero_masculino('Quinton Aaron').
-genero_masculino('Richard Madden').
-genero_masculino('Will Smith').
-genero_masculino('Dan Stevens').
-genero_masculino('Stan Alexander').
-genero_masculino('Zachary Levi').
-genero_masculino('Paul Newman').
-genero_masculino('Chris Sanders').
-genero_masculino('Ryan Potter').
-genero_masculino('Rick Moranis').
-genero_masculino('Jack Albertson').
-genero_masculino('Josh Brolin').
-genero_masculino('Antonio Banderas').
-genero_masculino('Dustin Hoffman').
-genero_masculino('Hugh Bonneville').
-genero_masculino('Lin-Manuel Miranda').
-genero_masculino('Domhnall Gleeson').
-genero_masculino('David Oyelowo').
-genero_masculino('Justin Theroux').
-genero_masculino('Seth Rogen').
-genero_masculino('Luke Evans').
-genero_masculino('Bill Murray').
-genero_masculino('Sharlto Copley').
-genero_masculino('Johnny Depp').
-genero_masculino('Robert Redford').
-genero_masculino('Keith Coogan').
-genero_masculino('George Lopez').
-genero_masculino('Eugenio Derbez').
-genero_masculino('Mark Rylance').
-genero_masculino('Herman Bing').
+Si el actor secundario El Origen es Joseph Gordon-Levitt entonces el genero del actor Joseph Gordon-Levitt es masculino
+181. actor_secundario('El_Origen', 'Joseph Gordon-Levitt').-->genero_masculino('Joseph Gordon-Levitt').
+Si el actor secundario El Origen es Joseph Gordon-Levitt entonces el genero del actor Joseph Gordon-Levitt es masculino
+182. actor_secundario('Matrix', 'Laurence Fishburne').-->genero_masculino('Laurence Fishburne').
+Si el actor secundario Terminator es Michael Biehn entonces el genero del actor Michael Biehn es masculino
+183. actor_secundario('Terminator', 'Michael Biehn').-->genero_masculino('Michael Biehn').
+Si el actor secundario Alien: El Octavo Pasajero es John Hurt entonces el genero del actor John Hurt es masculino
+184. actor_secundario('Alien:_El_Octavo_Pasajero', 'John Hurt').-->genero_masculino('John Hurt').
+Si el actor secundario Guardianes de la Galaxia es Bradley Cooper entonces el genero del actor Bradley Cooper es masculino
+185. actor_secundario('Guardianes_de_la_Galaxia', 'Bradley Cooper').-->genero_masculino('Bradley Cooper').
+Si el actor secundario Titanic es Billy Zane entonces el genero del actor Billy Zane es masculino
+186. actor_secundario('Titanic', 'Billy Zane').-->genero_masculino('Billy Zane').
+Si el actor secundario de Romeo + Julieta  es John Leguizamo entonces el genero del actor John Leguizamo es masculino
+187. actor_secundario('Romeo_+_Julieta', 'John Leguizamo').-->genero_masculino('John Leguizamo').
+Si el actor secundario de Un Paseo para Recordar es Peter Coyote entonces el genero del actor Peter Coyote es masculino
+188. actor_secundario('Un_Paseo_para_Recordar', 'Peter Coyote').-->genero_masculino('Peter Coyote').
+Si el actor secundario de Bajo la Misma Estrella es Nat Wolff entonces el genero del actor Nat Wolff es masculino
+189. actor_secundario('Bajo_la_Misma_Estrella', 'Nat Wolff').-->genero_masculino('Nat Wolff').
+Si el actor secundario de El Diario de Bridget Jones es Colin Firth entonces el genero del actor Colin Firth es masculino
+190. actor_secundario('El_Diario_de_Bridget_Jones', 'Colin Firth').-->genero_masculino('Colin Firth').
+Si el actor secundario de Casablanca es Claude Rains entonces el genero del actor Claude Rains es masculino
+191. actor_secundario('Casablanca', 'Claude Rains').-->genero_masculino('Claude Rains').
+Si el actor secundario de Un Lugar Llamado Notting Hill es Rhys Ifans entonces el genero del actor Rhys Ifans es masculino
+192. actor_secundario('Un_Lugar_Llamado_Notting_Hill', 'Rhys Ifans').-->genero_masculino('Rhys Ifans').
+Si el actor secundario de Scream: Grita Antes de Morir es Skeet Ulrich entonces el genero del actor Skeet Ulrich es masculino
+193. actor_secundario('Scream:_Grita_Antes_de_Morir', 'Skeet Ulrich').-->genero_masculino('Skeet Ulrich').
+Si el actor secundario de El Conjuro es Ron Livingston entonces el genero del actor Ron Livingston es masculino
+194. actor_secundario('El_Conjuro', 'Ron Livingston').-->genero_masculino('Ron Livingston').
+Si el actor secundario de Eso es Finn Wolfhard entonces el genero del actor Finn Wolfhard es masculino
+195. actor_secundario('Eso', 'Finn Wolfhard').-->genero_masculino('Finn Wolfhard').
+Si el actor secundario de Huye es Bradley Whitford entonces el genero del actor Bradley Whitford es masculino
+196. actor_secundario('Huye', 'Bradley Whitford').-->genero_masculino('Bradley Whitford').
+Si el actor secundario de Hereditary: El Legado del Diablo es Alex Wolff entonces el genero del actor Alex Wolff es masculino
+197. actor_secundario('Hereditary:_El_Legado_del_Diablo', 'Alex Wolff').-->genero_masculino('Alex Wolff').
+Si el actor secundario de El Babadook es Daniel Henshall entonces el genero del actor Daniel Henshall es masculino
+198. actor_secundario('El_Babadook', 'Daniel Henshall').-->genero_masculino('Daniel Henshall').
+Si el actor secundario de El aro es Brian Cox entonces el genero del actor Brian Cox es masculino
+199. actor_secundario('El_Aro', 'Brian Cox').-->genero_masculino('Brian Cox').
+Si el actor secundario de Actividad Paranormal es  entonces el genero del actor River PhoenMicah Sloatno es masculino
+200. actor_secundario('Actividad_Paranormal', 'Micah Sloat').-->genero_masculino('Micah Sloat').
+Si el actor secundario de Halloween es Donald Pleasence entonces el genero del actor Donald Pleasence es masculino
+201. actor_secundario('Halloween', 'Donald Pleasence').-->genero_masculino('Donald Pleasence').
+Si el actor secundario de El Club de la Pelea es Jared Leto entonces el genero del actor Jared Leto es masculino
+202. actor_secundario('El_Club_de_la_Pelea', 'Jared Leto').-->genero_masculino('Jared Leto').
+Si el actor secundario de Milagros Inesperados es Michael Clarke Duncan entonces el genero del actor Michael Clarke Duncan es masculino
+203. actor_secundario('Milagros_Inesperados', 'Michael Clarke Duncan').-->genero_masculino('Michael Clarke Duncan').
+Si el actor secundario de 12 Anos de Esclavitud es Michael Fassbender entonces el genero del actor Michael Fassbender es masculino
+204. actor_secundario('12_Anos_de_Esclavitud', 'Michael Fassbender').-->genero_masculino('Michael Fassbender').
+Si el actor secundario de Quien Quiere Ser Millonario es Anil Kapoor entonces el género del actor Anil Kapoor es masculino.Si el actor secundario de 12 Anos de Esclavitud es Michael Fassbender entonces el genero del actor Michael Fassbender es masculino
+205. actor_secundario('Quien_Quiere_Ser_Millonario', 'Anil Kapoor').-->genero_masculino('Anil Kapoor').
+Si el actor secundario de El Discurso del Rey es Geoffrey Rush entonces el género del actor Geoffrey Rush es masculino.
+206. actor_secundario('El_Discurso_del_Rey', 'Geoffrey Rush').-->genero_masculino('Geoffrey Rush').
+Si el actor secundario de Tiburón es Robert Shaw entonces el género del actor Robert Shaw es masculino.
+207. actor_secundario('Tiburon', 'Robert Shaw').-->genero_masculino('Robert Shaw').
+Si el actor secundario de El Silencio de los Inocentes es Anthony Hopkins entonces el género del actor Anthony Hopkins es masculino.
+208. actor_secundario('El_Silencio_de_los_Inocentes', 'Anthony Hopkins').-->genero_masculino('Anthony Hopkins').
+Si el actor secundario de Zodiaco es Mark Ruffalo entonces el género del actor Mark Ruffalo es masculino.
+209. actor_secundario('Zodiaco', 'Mark Ruffalo').-->genero_masculino('Mark Ruffalo').
+Si el actor secundario de El Sexto Sentido es Haley Joel Osment entonces el género del actor Haley Joel Osment es masculino.
+210. actor_secundario('El_Sexto_Sentido', 'Haley Joel Osment').-->genero_masculino('Haley Joel Osment').
+Si el actor secundario de El Rey León es Jeremy Irons entonces el género del actor Jeremy Irons es masculino.
+211. actor_secundario('El_Rey_Leon', 'Jeremy Irons').-->genero_masculino('Jeremy Irons').
+Si el actor secundario de Zootopia es Jason Bateman entonces el género del actor Jason Bateman es masculino.
+212. actor_secundario('Zootopia', 'Jason Bateman').-->genero_masculino('Jason Bateman').
+Si el actor secundario de Moana: Un Mar de Aventuras es Dwayne Johnson entonces el género del actor Dwayne Johnson es masculino.
+213. actor_secundario('Moana:_Un_Mar_de_Aventuras', 'Dwayne Johnson').-->genero_masculino('Dwayne Johnson').
+Si el actor secundario de Mi Villano Favorito es Jason Segel entonces el género del actor Jason Segel es masculino.
+214. actor_secundario('Mi_Villano_Favorito', 'Jason Segel').->genero_masculino('Jason Segel').
+Si el actor secundario de Ralph, El Demoledor es Jack McBrayer entonces el género del actor Jack McBrayer es masculino.
+215. actor_secundario('Ralph,El_Demoledor', 'Jack McBrayer').-->genero_masculino('Jack McBrayer').
+Si el actor secundario de El Mago de Oz es Ray Bolger entonces el género del actor Ray Bolger es masculino.
+216. actor_secundario('El_Mago_de_Oz', 'Ray Bolger').-->genero_masculino('Ray Bolger').
+Si el actor secundario de El Mago de Oz es Ray Bolger entonces el género del actor Ray Bolger es masculino.
+217. actor_secundario('Alicia_en_el_Pais_de_las_Maravillas', 'Ed Wynn').-->genero_masculino('Ed Wynn').
+
 
 %Actrices de genero femenino
-genero_femenino('Ellen Burstyn').
-genero_femenino('Heather Langenkamp').
-genero_femenino('Georgie Henley').
-genero_femenino('Julie Andrews').
-genero_femenino('Rooney Mara').
-genero_femenino('Kristen Bell').
-genero_femenino('Julia Roberts').
-genero_femenino('Ivana Baquero').
-genero_femenino('Sally Hawkins').
-genero_femenino('Jennifer Lawrence').
-genero_femenino('Sigourney Weaver').
-genero_femenino('Shailene Woodley').
-genero_femenino('Renee Zellweger').
-genero_femenino('Nicole Kidman').
-genero_femenino('Constance Wu').
-genero_femenino('Neve Campbell').
-genero_femenino('Vera Farmiga').
-genero_femenino('Toni Collette').
-genero_femenino('Essie Davis').
-genero_femenino('Naomi Watts').
-genero_femenino('Katie Featherston').
-genero_femenino('Jamie Lee Curtis').
-genero_femenino('Jodie Foster').
-genero_femenino('Natalie Portman').
-genero_femenino('Ellen DeGeneres').
-genero_femenino('Ginnifer Goodwin').
-genero_femenino('Auliʻi Cravalho').
-genero_femenino('Amy Poehler').
-genero_femenino('Judy Garland').
-genero_femenino('Mia Wasikowska').
-genero_femenino('Mara Wilson').
-genero_femenino('Tessa Thompson').
-genero_femenino('Angelina Jolie').
-genero_femenino('Mackenzie Foy').
-genero_femenino('Isabela Moner').
-genero_femenino('Ruby Barnhill').
-genero_femenino('Adriana Caselotti').
-genero_femenino('Lily James').
-genero_femenino('Ming-Na Wen').
-genero_femenino('Emma Watson').
-genero_femenino('Irene Bedard').
-genero_femenino('Mandy Moore').
-genero_femenino('Kelly Macdonald').
-genero_femenino('Daveigh Chase').
-genero_femenino('Anika Noni Rose').
-genero_femenino('Kate Maberly').
-genero_femenino('Alexa PenaVega').
-genero_femenino('Emily Blunt').
-genero_femenino('Angelina Jolie').
-genero_femenino('Charlize Theron').
-genero_femenino('Karen Allen').
-genero_femenino('Tilda Swinton').
-genero_femenino('Candice Bergen').
-genero_femenino('Sophie Marceau').
-genero_femenino('Laurie Metcalf').
-genero_femenino('Holly Hunter').
-genero_femenino('Idina Menzel').
-genero_femenino('Jessica Chastain').
-genero_femenino('Robin Wright').
-genero_femenino('Thora Birch').
-genero_femenino('Thandie Newton').
-genero_femenino('Carrie-Anne Moss').
-genero_femenino('Mila Kunis').
-genero_femenino('Phyllis Smith').
-genero_femenino('Tami Stronach').
-genero_femenino('Eva Gabor').
-genero_femenino('Barbara Luddy').
-genero_femenino('Demi Moore').
-genero_femenino('Roseanne Barr').
-genero_femenino('Hayley Atwell').
-genero_femenino('Eva Green').
-genero_femenino('Betty Lou Gerson').
-genero_femenino('Kathryn Beaumont').
-genero_femenino('Lucille La Verne').
-genero_femenino('Elissa Knight').
-genero_femenino('Emma Thompson').
-genero_femenino('Sarah Silverman').
-genero_femenino('Anne Hathaway').
-genero_femenino('Maggie Smith').
-genero_femenino('Geena Davis').
-genero_femenino('Sally Ann Howes').
-genero_femenino('Michelle Pfeiffer').
-genero_femenino('Keira Knightley').
-genero_femenino('Helena Bonham Carter').
+Si la actriz protagonista de El Exorcista es Ellen Burstyn entonces el género de la actriz Ellen Burstyn es femenino.
+218. actor_protagonista('El_Exorcista', 'Ellen Burstyn').-->genero_femenino('Ellen Burstyn').
+Si la actriz protagonista de Pesadilla en la Calle del Infierno es Heather Langenkamp entonces el género de la actriz Heather Langenkamp es femenino.
+219. actor_protagonista('Pesadilla_en_la_Calle_del_Infierno', 'Heather Langenkamp').-->genero_femenino('Heather Langenkamp').
+Si la actriz protagonista de Las crónicas de Narnia: El león, la bruja y el ropero es Georgie Henley entonces el género de la actriz Georgie Henley es femenino.
+220. actor_protagonista('Las_cronicas_de_Narnia:_El_leon,la_bruja_y_el_ropero', 'Georgie Henley').-->genero_femenino('Georgie Henley').
+Si la actriz protagonista de La Novicia Rebelde es Julie Andrews entonces el género de la actriz Julie Andrews es femenino.
+221. actor_protagonista('La_Novicia_Rebelde', 'Julie Andrews').-->genero_femenino('Julie Andrews').
+Si la actriz protagonista de La Chica del Dragón Tatuado es Rooney Mara entonces el género de la actriz Rooney Mara es femenino.
+222. actor_protagonista('La_Chica_del_Dragon_Tatuado', 'Rooney Mara').-->genero_femenino('Rooney Mara').
+Si la actriz protagonista de Frozen: Una Aventura Congelada es Kristen Bell entonces el género de la actriz Kristen Bell es femenino.
+223. actor_protagonista('Frozen:_Una_Aventura_Congelada', 'Kristen Bell').-->genero_femenino('Kristen Bell').
+Si la actriz protagonista de Mujer Bonita es Julia Roberts entonces el género de la actriz Julia Roberts es femenino.
+224. actor_protagonista('Mujer_Bonita', 'Julia Roberts').-->genero_femenino('Julia Roberts').
+Si la actriz protagonista de El Laberinto del Fauno es Ivana Baquero entonces el género de la actriz Ivana Baquero es femenino.
+225. actor_protagonista('El_Laberinto_del_Fauno', 'Ivana Baquero').-->genero_femenino('Ivana Baquero').
+Si la actriz protagonista de La Forma del Agua es Sally Hawkins entonces el género de la actriz Sally Hawkins es femenino.
+226. actor_protagonista('La_Forma_del_Agua', 'Sally Hawkins').-->genero_femenino('Sally Hawkins').
+Si la actriz protagonista de Los Juegos del Hambre es Jennifer Lawrence entonces el género de la actriz Jennifer Lawrence es femenino.
+227. actor_protagonista('Los_Juegos_del_Hambre', 'Jennifer Lawrence').-->genero_femenino('Jennifer Lawrence').
+Si la actriz protagonista de Alien: El Octavo Pasajero es Sigourney Weaver entonces el género de la actriz Sigourney Weaver es femenino.
+228. actor_protagonista('Alien:_El_Octavo_Pasajero', 'Sigourney Weaver').-->genero_femenino('Sigourney Weaver').
+Si la actriz protagonista de Bajo la Misma Estrella es Shailene Woodley entonces el género de la actriz Shailene Woodley es femenino.
+229. actor_protagonista('Bajo_la_Misma_Estrella', 'Shailene Woodley').-->genero_femenino('Shailene Woodley').
+Si la actriz protagonista de El Diario de Bridget Jones es Renee Zellweger entonces el género de la actriz Renee Zellweger es femenino.
+230. actor_protagonista('El_Diario_de_Bridget_Jones', 'Renee Zellweger').-->genero_femenino('Renee Zellweger').
+Si la actriz protagonista de Moulin Rouge: Amor en Rojo es Nicole Kidman entonces el género de la actriz Nicole Kidman es femenino.
+231. actor_protagonista('Moulin_Rouge:_Amor_en_Rojo', 'Nicole Kidman').-->genero_femenino('Nicole Kidman').
+Si la actriz protagonista de Locamente Millonarios es Constance Wu entonces el género de la actriz Constance Wu es femenino.
+232. actor_protagonista('Locamente_Millonarios', 'Constance Wu').-->genero_femenino('Constance Wu').
+Si la actriz protagonista de Scream: Grita Antes de Morir es Neve Campbell entonces el género de la actriz Neve Campbell es femenino.
+233. actor_protagonista('Scream:_Grita_Antes_de_Morir', 'Neve Campbell').-->genero_femenino('Neve Campbell').
+Si la actriz protagonista de El Conjuro es Vera Farmiga entonces el género de la actriz Vera Farmiga es femenino.
+234. actor_protagonista('El_Conjuro', 'Vera Farmiga').-->genero_femenino('Vera Farmiga').
+Si la actriz protagonista de Hereditary: El Legado del Diablo es Toni Collette entonces el género de la actriz Toni Collette es femenino.
+235. actor_protagonista('Hereditary:_El_Legado_del_Diablo', 'Toni Collette').-->genero_femenino('Toni Collette').
+Si la actriz protagonista de El Babadook es Essie Davis entonces el género de la actriz Essie Davis es femenino.
+236. actor_protagonista('El_Babadook', 'Essie Davis').-->genero_femenino('Essie Davis').
+Si la actriz protagonista de El Aro es Naomi Watts entonces el género de la actriz Naomi Watts es femenino.
+237. actor_protagonista('El_Aro', 'Naomi WattsSi ').-->genero_femenino('Naomi Watts').
+Si la actriz protagonista de Actividad Paranormal es Katie Featherston entonces el género de la actriz Katie Featherston es femenino.
+238. actor_protagonista('Actividad_Paranormal', 'Katie Featherston').-->genero_femenino('Katie Featherston').
+Si la actriz protagonista de Halloween es Jamie Lee Curtis entonces el género de la actriz Jamie Lee Curtis es femenino.
+239. actor_protagonista('Halloween', 'Jamie Lee Curtis').-->genero_femenino('Jamie Lee Curtis').
+Si la actriz protagonista de El Silencio de los Inocentes es Jodie Foster entonces el género de la actriz Jodie Foster es femenino.
+240. actor_protagonista('El_Silencio_de_los_Inocentes', 'Jodie Foster').-->genero_femenino('Jodie Foster').
+Si la actriz protagonista de El Cisne Negro es Natalie Portman entonces el género de la actriz Natalie Portman es femenino.
+241. actor_protagonista('El_Cisne_Negro', 'Natalie Portman').-->genero_femenino('Natalie Portman').
+Si la actriz protagonista de Buscando a Dory es Ellen DeGeneres entonces el género de la actriz Ellen DeGeneres es femenino.
+242. actor_protagonista('Buscando_a_Dory', 'Ellen DeGeneres').-->genero_femenino('Ellen DeGeneres').
+Si la actriz protagonista de Zootopia es Ginnifer Goodwin entonces el género de la actriz Ginnifer Goodwin es femenino.
+243. actor_protagonista('Zootopia', 'Ginnifer Goodwin').-->genero_femenino('Ginnifer Goodwin').
+Si la actriz protagonista de Moana: Un Mar de Aventuras es Auliʻi Cravalho entonces el género de la actriz Auliʻi Cravalho es femenino.
+244. actor_protagonista('Moana:_Un_Mar_de_Aventuras', 'Auliʻi Cravalho').-->genero_femenino('Auliʻi Cravalho').
+Si la actriz protagonista de Intensa-Mente es Amy Poehler entonces el género de la actriz Amy Poehler es femenino.
+245. actor_protagonista('Intensa-Mente', 'Amy Poehler').-->genero_femenino('Amy Poehler').
+Si la actriz protagonista de El Mago de Oz es Judy Garland entonces el género de la actriz Judy Garland es femenino.
+246. actor_protagonista('El_Mago_de_Oz', 'Judy Garland').-->genero_femenino('Judy Garland').
+Si la actriz protagonista de Alicia en el País de las Maravillas es Mia Wasikowska entonces el género de la actriz Mia Wasikowska es femenino.
+247. actor_protagonista('Alicia_en_el_Pais_de_las_Maravillas', 'Mia Wasikowska').-->genero_femenino('Mia Wasikowska').
+Si la actriz protagonista de Matilda es Mara Wilson entonces el género de la actriz Mara Wilson es femenino.
+248. actor_protagonista('Matilda', 'Mara Wilson').-->genero_femenino('Mara Wilson').
+Si la actriz protagonista de La Dama y el Vagabundo 2019 es Tessa Thompson entonces el género de la actriz Tessa Thompson es femenino.
+249. actor_protagonista('La_Dama_y_el_Vagabundo_2019', 'Tessa Thompson').-->genero_femenino('Tessa Thompson').
+Si la actriz protagonista de Maléfica es Angelina Jolie entonces el género de la actriz Angelina Jolie es femenino.
+250. actor_protagonista('Malefica', 'Angelina Jolie').-->genero_femenino('Angelina Jolie').
+Si la actriz secundaria de Chitty Chitty Bang Bang es Sally Ann Howes entonces el género de la actriz Sally Ann Howes es femenino.
+251. actor_secundario('Chitty_Chitty_Bang_Bang', 'Sally Ann Howes').-->genero_femenino('Sally Ann Howes').
+Si la actriz secundaria de Malefica Duena del Mal es Michelle Pfeiffer entonces el genero de la actriz de Michelle Pfeiffer es femenino
+252. actor_secundario('Malefica_Duena_del_Mal', 'Michelle Pfeiffer').-->genero_femenino('Michelle Pfeiffer').
+Si la actriz secundaria de El Cascanueces y los Cuatro Reinos es Keira Knightley entonces el género de la actriz Keira Knightley es femenino.
+Si la actriz secundaria de El Cascanueces y los Cuatro Reinos es Keira Knightley entonces el genero de la actriz de Keira Knightley es femenino
+253. actor_secundario('El_Cascanueces_y_los_Cuatro_Reinos', 'Keira Knightley').-->genero_femenino('Keira Knightley').
+Si la actriz secundaria de Alicia a Traves del Espejo es Helena Bonham Carter entonces el genero de la actriz de Helena Bonham Carter es femenino
+254. actor_secundario('Alicia_a_Traves_del_Espejo', 'Helena Bonham Carter').-->genero_femenino('Helena Bonham Carter').
+Si la actriz secundaria de Zafarrancho en el Rancho es Roseanne Barr entonces el genero de la actriz de Roseanne Barr es femenino
+255. actor_secundario('Zafarrancho_en_el_Rancho', 'Roseanne Barr').-->genero_femenino('Helena Bonham Carter').
 
 */
